@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @ShrinithiSnyper
-- 👀 I’m interested in SST Inc. and Robotics.
-- 🌱 I’m currently learning School of Science and Technology.
-- 💞️ I’m looking to collaborate on many different projects.
+- 👋 Hi, I’m @snyperf1
+- 👀 I’m interested in Science and Technology
+- 🌱 I’m currently learning in School of Science and Technology.
+- 💞️ I’m looking to help out anyone with anything (if situation is reasonable)
 - 📫 How to reach me: 
 Email: kottaimuthu_shrinithi@s2020.ssts.edu.sg
+Email(Personal): snypershriboi@gmail.com
 
 <!---
 ShrinithiSnyper/ShrinithiSnyper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
